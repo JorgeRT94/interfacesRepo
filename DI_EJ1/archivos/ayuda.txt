@@ -1,0 +1,6 @@
+Intrucciones:
+En el menu estilos tendremos dos submenus, colores y fuente.
+En el submenu colores aplicaremos colores a la fuente o directamente 
+al fondo del editor de texto.
+En el submenu estilos aplicaremos estilos como fuente en negrita
+o fuente cursiva. Tambien podremos elegir el tamaño de la fuente.
